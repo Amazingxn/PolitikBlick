@@ -1,5 +1,5 @@
 # PolitikBlick
-Hier erfährst du Themen über die Deutsche Politik
+Deutsche Politik!
 <!DOCTYPE html>
 <html lang="de">
 <head>
